@@ -1,40 +1,24 @@
 # Hi, I'm Langda Guo 👋
 
+Software engineer passionate about building reliable, scalable systems.
+
+---
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ds-langdagu&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## GitHub Stats
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" alt="ds-langdagu's GitHub Stats" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ds-langdagu&layout=compact&langs_count=8&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ds-langdagu&layout=compact&langs_count=8&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ds-langdagu&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
-  </picture>
-</p>
+[![ds-langdagu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=yeblu&hide=stars&show=prs_merged_percentage)](https://github.com/ds-langdagu)
 
 ---
 
 ## Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
