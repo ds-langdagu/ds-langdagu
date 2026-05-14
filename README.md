@@ -6,13 +6,13 @@ Software engineer passionate about building reliable, scalable systems.
 
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ds-langdagu&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ds-langdagu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## GitHub Stats
 
-[![ds-langdagu's GitHub stats](https://ds-langdagu.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=yeblu&hide=stars&show=prs_merged_percentage)](https://github.com/ds-langdagu/github-readme-stats)
+[![ds-langdagu's GitHub stats](https://github-readme-stats-xi-rosy-28.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=onedark&hide=stars&show=prs_merged_percentage)](https://github.com/ds-langdagu/github-readme-stats)
 
 ---
 
