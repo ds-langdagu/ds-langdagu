@@ -6,15 +6,15 @@ Software engineer passionate about building reliable, scalable systems.
 
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ds-langdagu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ds-langdagu&theme=gruvbox&background=8B0000)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## GitHub Stats
 
-[![ds-langdagu's GitHub stats](https://github-readme-stats-xi-rosy-28.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=onedark&hide=stars,contribs,issues)](https://github.com/ds-langdagu/github-readme-stats)
+[![ds-langdagu's GitHub stats](https://github-readme-stats-xi-rosy-28.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=gruvbox&bg_color=8B0000&hide=stars,contribs,issues)](https://github.com/ds-langdagu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-xi-rosy-28.vercel.app/api/top-langs?username=ds-langdagu&include_orgs=true&show_icons=true&theme=onedark&locale=en)](https://github.com/ds-langdagu/github-readme-stats)
+[![Top Langs](https://github-readme-stats-xi-rosy-28.vercel.app/api/top-langs?username=ds-langdagu&include_orgs=true&show_icons=true&theme=gruvbox&bg_color=8B0000&locale=en)](https://github.com/ds-langdagu/github-readme-stats)
 
 
 ---
