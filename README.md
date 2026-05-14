@@ -1,6 +1,6 @@
 # Hi, I'm Langda Guo 👋
 
-Software engineer passionate about building reliable, scalable systems.
+Ow-ow-ow!
 
 ---
 
@@ -13,9 +13,6 @@ Software engineer passionate about building reliable, scalable systems.
 ## GitHub Stats
 
 [![ds-langdagu's GitHub stats](https://github-readme-stats-xi-rosy-28.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=gruvbox&bg_color=8B0000&hide=stars,contribs,issues)](https://github.com/ds-langdagu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-xi-rosy-28.vercel.app/api/top-langs?username=ds-langdagu&include_orgs=true&show_icons=true&theme=gruvbox&bg_color=8B0000&locale=en)](https://github.com/ds-langdagu/github-readme-stats)
-
 
 ---
 
