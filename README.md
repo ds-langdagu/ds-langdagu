@@ -1,8 +1,4 @@
-# Hi, I'm Langda Guo 👋
-
-Oi, oi, oi, oiiiiiiiii!
-
----
+# Oi, oi, oi, oiiiiiiiii!
 
 ## Trophies
 
