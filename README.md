@@ -1,9 +1,5 @@
 # Hi, I'm Langda Guo 👋
 
-Software engineer passionate about building reliable, scalable systems.
-
----
-
 ## GitHub Stats
 
 <p align="center">
