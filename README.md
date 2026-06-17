@@ -2,7 +2,7 @@
 
 ## GitHub Stats
 
-![ds-langdagu's GitHub stats](https://github-readme-stats-xi-rosy-28.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=gruvbox&bg_color=8B0000)
+![ds-langdagu's GitHub stats](https://github-readme-stats-xi-rosy-28.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=shades-of-purple)
 
 ---
 
