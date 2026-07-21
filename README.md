@@ -2,7 +2,11 @@
 
 ## GitHub Stats
 
-![ds-langdagu's GitHub stats](https://github-stats-extended.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true)
+![GitHub stats](profile/stats.svg)
+
+![Wakatime stats](profile/wakatime.svg)
+
+![Top langs](profile/top-langs.svg)
 
 ---
 
