@@ -4,10 +4,6 @@
 
 ![GitHub stats](profile/stats.svg)
 
-![Wakatime stats](profile/wakatime.svg)
-
-![Top langs](profile/top-langs.svg)
-
 ---
 
 ## Tech Stack
