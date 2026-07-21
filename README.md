@@ -2,7 +2,7 @@
 
 ## GitHub Stats
 
-![ds-langdagu's GitHub stats](https://github-stats-extended-bgf5.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=material-palenight)
+![ds-langdagu's GitHub stats](https://github-stats-extended.vercel.app/api?username=ds-langdagu&show_icons=true&include_all_commits=true)
 
 ---
 
